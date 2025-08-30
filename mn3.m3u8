@@ -1,0 +1,8 @@
+#EXTM3U
+#EXT-X-VERSION:3
+#EXT-X-STREAM-INF:BANDWIDTH=2496000,CODECS="avc1.77.30,mp4a.40.2",RESOLUTION=1280x720
+#EXTVLCOPT:http-referrer=https://www.88-hd.com
+https://178.175.137.234:4432/Monomax_PL_3HD/chunklist.m3u8
+#EXT-X-STREAM-INF:BANDWIDTH=1296000,CODECS="avc1.66.30,mp4a.40.2",RESOLUTION=854x480
+#EXTVLCOPT:http-referrer=https://www.88-hd.com
+https://178.175.137.234:4432/Monomax_PL_3HD/chunklist.m3u8
